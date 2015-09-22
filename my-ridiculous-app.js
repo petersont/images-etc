@@ -1,6 +1,4 @@
 
-// Does this make it?
-
 (function()
 {
     var Editor = function Editor() {}
