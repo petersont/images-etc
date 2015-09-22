@@ -1,4 +1,6 @@
 
+// Does this text show up?
+
 (function()
 {
     var Editor = function Editor() {}
