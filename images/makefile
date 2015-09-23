@@ -1,4 +1,6 @@
 
+## This makefile is the BEST makefile
+
 SDL_INCLUDE_PATH = /usr/local/Cellar/sdl/1.2.15/include/SDL
 SDL_LIB_PATH = /usr/local/Cellar/sdl/1.2.15/lib
 
