@@ -19,4 +19,3 @@ run: test
 test: test.cpp
 	c++ test.cpp -I$(SDL_INCLUDE_PATH) $(SDL_LIBS) -o test
 
-
